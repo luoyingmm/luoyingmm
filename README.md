@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoyingmm&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luoyingmm&show_icons=true&theme=flag-india)
 
 - 🔭 I’m currently studying in high school
 - 🌱 I’m currently learning Java, Android
